@@ -70,7 +70,7 @@ Request Body:
 Item Management :
 
 Token Authentication
-For endpoints that require authentication (like item creation, updating, deleting, or retrieving), include the JWT token in the Authorization header:
+   For endpoints that require authentication (like item creation, updating, deleting, or retrieving), include the JWT token in the Authorization header
 
 Header:
    Authorization: Bearer <access_token>  - get the access token from the succesfull loggedin response
