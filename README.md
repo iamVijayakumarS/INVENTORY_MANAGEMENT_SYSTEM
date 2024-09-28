@@ -109,7 +109,7 @@ Caching :
 
 Testing :
    To run the test suite, use the following command:
-   python manage.py test
+   python manage.py test.
 
 Logging :
    The application logs important actions, such as user registration attempts and authentication, using Python's built-in logging module.
